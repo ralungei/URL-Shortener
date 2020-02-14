@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-  <img width="100" height="95" src="https://github.com/ralungei/URL-Shortener/blob/master/urlight_logo_green.png">
+  <img width="100" src="https://github.com/ralungei/URL-Shortener/blob/master/urlight_logo_green.png">
   </kbd>
 </p>
 

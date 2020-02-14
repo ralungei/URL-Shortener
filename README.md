@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-  <img width="100" height="95" src="https://github.com/ralungei/Q12DesktopApp/blob/master/q12_icon%20copia.png">
+  <img width="100" height="95" src="https://github.com/ralungei/URL-Shortener/blob/master/urlight_logo_green.png">
   </kbd>
 </p>
 
@@ -16,5 +16,5 @@
   <b>Mongoose</b>
 </p>
 <div align="center">
-  <img  width="680" src="https://github.com/ralungei/Q12DesktopApp/blob/master/q12app.png">
+  <img  width="680" src="https://github.com/ralungei/URL-Shortener/blob/master/urlight_screencapture.png">
 </div>
